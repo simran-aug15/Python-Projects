@@ -11,7 +11,8 @@ pyautogui.click(541,981
 time.sleep(0.5)
 
 # Step 2: Drag to select text
-pyautogui.moveTo(
+pyautogui.moveTo
+(
      607,131
      
 )
