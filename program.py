@@ -13,8 +13,7 @@ time.sleep(0.5)
 # Step 2: Drag to select text
 pyautogui.moveTo
 (
-     607,131
-     
+     607,131    
 )
 pyautogui.dragTo(
      682,972
