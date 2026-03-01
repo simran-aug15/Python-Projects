@@ -39,7 +39,3 @@ print(copied_text)
 
 
 
-
-
-
-
